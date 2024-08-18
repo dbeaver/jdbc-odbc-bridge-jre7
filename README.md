@@ -7,7 +7,11 @@ It has the same License as JRE7 from Oracle.
 
 ## Using the driver in DBeaver
 
-It was removed in DBeaver Community Edition **23.1**. To use it again, you will need to:
+It was removed in DBeaver Community Edition **23.1**. 
+
+You can start using [DBeaver PRO products](https://dbeaver.com) (they include brand new ODBC driver).  
+
+Or, to use legacy driver in Community:
 
 1. Download [jdbc-odbc-bridge-jre7.jar](https://github.com/dbeaver/jdbc-odbc-bridge-jre7/raw/main/jdbc-odbc-bridge-jre7.jar) and [x64/JdbcOdbc.dll](https://github.com/dbeaver/jdbc-odbc-bridge-jre7/raw/main/x64/JdbcOdbc.dll)
 1. Create a new driver in DBeaver
